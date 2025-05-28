@@ -1,0 +1,15 @@
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; 
+  background-color: rgb(207, 236, 244);
+}
+
+main {
+  flex: 1; 
+}
